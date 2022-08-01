@@ -3,8 +3,7 @@
 In this video, I'll show you how to export a pandas dataframe to an Excel file with document properties. To set the Excel document properties, we will use the XlsxWriter library.
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/InVKYPK73vg/0.jpg)](https://youtu.be/InVKYPK73vg)
 
 ## Demo
 ![Demo](/demo.png?raw=true "Demo")
